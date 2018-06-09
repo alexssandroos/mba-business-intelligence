@@ -1,0 +1,9 @@
+min 0.06red + 0.08blue
+
+st
+ 8red + 6blue>=48
+ 1red + 2blue>=12
+ 1red + 2blue<=20
+ red >=0
+ blue>=0
+end

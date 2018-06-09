@@ -1,0 +1,6 @@
+max 100standard + 150turbo
+st 
+standard<=100
+turbo<=120
+standard + 2turbo=160
+end

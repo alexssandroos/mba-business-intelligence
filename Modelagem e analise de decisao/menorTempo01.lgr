@@ -1,0 +1,8 @@
+min 100000sp + 200000rio
+st
+lamFina) 8sp + 2rio =16
+lamMedia) 1sp + 1rio =6
+lamGrossa) 2sp + 7rio =28
+sp>=0
+rio>=0
+end

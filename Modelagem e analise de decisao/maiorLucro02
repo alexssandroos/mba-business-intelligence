@@ -1,0 +1,8 @@
+max 20laranja +10pessego + 30tangerina
+st	
+laranja+pessego+tangerina<=800
+pessego>=100
+tangerina<=200
+laranja=200
+tangerina>=0
+end
